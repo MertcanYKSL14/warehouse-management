@@ -1,0 +1,501 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\WarehouseSon\\Warehouse\\Warehouse\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B1F34799-E631-3657-2A29-C2351622D21C}|WarehouseAPI\\WarehouseAPI.csproj|c:\\users\\user\\desktop\\warehouseson\\warehouse\\warehouse\\warehouseapi\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1F34799-E631-3657-2A29-C2351622D21C}|WarehouseAPI\\WarehouseAPI.csproj|solutionrelative:warehouseapi\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1F34799-E631-3657-2A29-C2351622D21C}|WarehouseAPI\\WarehouseAPI.csproj|c:\\users\\user\\desktop\\warehouseson\\warehouse\\warehouse\\warehouseapi\\migrations\\20260311062829_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1F34799-E631-3657-2A29-C2351622D21C}|WarehouseAPI\\WarehouseAPI.csproj|solutionrelative:warehouseapi\\migrations\\20260311062829_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1F34799-E631-3657-2A29-C2351622D21C}|WarehouseAPI\\WarehouseAPI.csproj|c:\\users\\user\\desktop\\warehouseson\\warehouse\\warehouse\\warehouseapi\\dtos\\shelfdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1F34799-E631-3657-2A29-C2351622D21C}|WarehouseAPI\\WarehouseAPI.csproj|solutionrelative:warehouseapi\\dtos\\shelfdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1F34799-E631-3657-2A29-C2351622D21C}|WarehouseAPI\\WarehouseAPI.csproj|c:\\users\\user\\desktop\\warehouseson\\warehouse\\warehouse\\warehouseapi\\managers\\productmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1F34799-E631-3657-2A29-C2351622D21C}|WarehouseAPI\\WarehouseAPI.csproj|solutionrelative:warehouseapi\\managers\\productmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1F34799-E631-3657-2A29-C2351622D21C}|WarehouseAPI\\WarehouseAPI.csproj|c:\\users\\user\\desktop\\warehouseson\\warehouse\\warehouse\\warehouseapi\\repositories\\iwarehouserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1F34799-E631-3657-2A29-C2351622D21C}|WarehouseAPI\\WarehouseAPI.csproj|solutionrelative:warehouseapi\\repositories\\iwarehouserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1F34799-E631-3657-2A29-C2351622D21C}|WarehouseAPI\\WarehouseAPI.csproj|c:\\users\\user\\desktop\\warehouseson\\warehouse\\warehouse\\warehouseapi\\repositories\\istockmovementrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1F34799-E631-3657-2A29-C2351622D21C}|WarehouseAPI\\WarehouseAPI.csproj|solutionrelative:warehouseapi\\repositories\\istockmovementrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1F34799-E631-3657-2A29-C2351622D21C}|WarehouseAPI\\WarehouseAPI.csproj|c:\\users\\user\\desktop\\warehouseson\\warehouse\\warehouse\\warehouseapi\\repositories\\ishelfrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1F34799-E631-3657-2A29-C2351622D21C}|WarehouseAPI\\WarehouseAPI.csproj|solutionrelative:warehouseapi\\repositories\\ishelfrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1F34799-E631-3657-2A29-C2351622D21C}|WarehouseAPI\\WarehouseAPI.csproj|c:\\users\\user\\desktop\\warehouseson\\warehouse\\warehouse\\warehouseapi\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1F34799-E631-3657-2A29-C2351622D21C}|WarehouseAPI\\WarehouseAPI.csproj|solutionrelative:warehouseapi\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1F34799-E631-3657-2A29-C2351622D21C}|WarehouseAPI\\WarehouseAPI.csproj|c:\\users\\user\\desktop\\warehouseson\\warehouse\\warehouse\\warehouseapi\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1F34799-E631-3657-2A29-C2351622D21C}|WarehouseAPI\\WarehouseAPI.csproj|solutionrelative:warehouseapi\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1F34799-E631-3657-2A29-C2351622D21C}|WarehouseAPI\\WarehouseAPI.csproj|c:\\users\\user\\desktop\\warehouseson\\warehouse\\warehouse\\warehouseapi\\entities\\warehouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1F34799-E631-3657-2A29-C2351622D21C}|WarehouseAPI\\WarehouseAPI.csproj|solutionrelative:warehouseapi\\entities\\warehouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1F34799-E631-3657-2A29-C2351622D21C}|WarehouseAPI\\WarehouseAPI.csproj|c:\\users\\user\\desktop\\warehouseson\\warehouse\\warehouse\\warehouseapi\\entities\\stockmovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1F34799-E631-3657-2A29-C2351622D21C}|WarehouseAPI\\WarehouseAPI.csproj|solutionrelative:warehouseapi\\entities\\stockmovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1F34799-E631-3657-2A29-C2351622D21C}|WarehouseAPI\\WarehouseAPI.csproj|c:\\users\\user\\desktop\\warehouseson\\warehouse\\warehouse\\warehouseapi\\entities\\shelf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1F34799-E631-3657-2A29-C2351622D21C}|WarehouseAPI\\WarehouseAPI.csproj|solutionrelative:warehouseapi\\entities\\shelf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1F34799-E631-3657-2A29-C2351622D21C}|WarehouseAPI\\WarehouseAPI.csproj|c:\\users\\user\\desktop\\warehouseson\\warehouse\\warehouse\\warehouseapi\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1F34799-E631-3657-2A29-C2351622D21C}|WarehouseAPI\\WarehouseAPI.csproj|solutionrelative:warehouseapi\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1F34799-E631-3657-2A29-C2351622D21C}|WarehouseAPI\\WarehouseAPI.csproj|c:\\users\\user\\desktop\\warehouseson\\warehouse\\warehouse\\warehouseapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1F34799-E631-3657-2A29-C2351622D21C}|WarehouseAPI\\WarehouseAPI.csproj|solutionrelative:warehouseapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1F34799-E631-3657-2A29-C2351622D21C}|WarehouseAPI\\WarehouseAPI.csproj|c:\\users\\user\\desktop\\warehouseson\\warehouse\\warehouse\\warehouseapi\\controllers\\warehousecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1F34799-E631-3657-2A29-C2351622D21C}|WarehouseAPI\\WarehouseAPI.csproj|solutionrelative:warehouseapi\\controllers\\warehousecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1F34799-E631-3657-2A29-C2351622D21C}|WarehouseAPI\\WarehouseAPI.csproj|c:\\users\\user\\desktop\\warehouseson\\warehouse\\warehouse\\warehouseapi\\controllers\\shelfcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1F34799-E631-3657-2A29-C2351622D21C}|WarehouseAPI\\WarehouseAPI.csproj|solutionrelative:warehouseapi\\controllers\\shelfcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1F34799-E631-3657-2A29-C2351622D21C}|WarehouseAPI\\WarehouseAPI.csproj|c:\\users\\user\\desktop\\warehouseson\\warehouse\\warehouse\\warehouseapi\\controllers\\stockmovementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1F34799-E631-3657-2A29-C2351622D21C}|WarehouseAPI\\WarehouseAPI.csproj|solutionrelative:warehouseapi\\controllers\\stockmovementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1F34799-E631-3657-2A29-C2351622D21C}|WarehouseAPI\\WarehouseAPI.csproj|c:\\users\\user\\desktop\\warehouseson\\warehouse\\warehouse\\warehouseapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1F34799-E631-3657-2A29-C2351622D21C}|WarehouseAPI\\WarehouseAPI.csproj|solutionrelative:warehouseapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1F34799-E631-3657-2A29-C2351622D21C}|WarehouseAPI\\WarehouseAPI.csproj|c:\\users\\user\\desktop\\warehouseson\\warehouse\\warehouse\\warehouseapi\\managers\\stockmovementmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1F34799-E631-3657-2A29-C2351622D21C}|WarehouseAPI\\WarehouseAPI.csproj|solutionrelative:warehouseapi\\managers\\stockmovementmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1F34799-E631-3657-2A29-C2351622D21C}|WarehouseAPI\\WarehouseAPI.csproj|c:\\users\\user\\desktop\\warehouseson\\warehouse\\warehouse\\warehouseapi\\managers\\shelfmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1F34799-E631-3657-2A29-C2351622D21C}|WarehouseAPI\\WarehouseAPI.csproj|solutionrelative:warehouseapi\\managers\\shelfmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1F34799-E631-3657-2A29-C2351622D21C}|WarehouseAPI\\WarehouseAPI.csproj|c:\\users\\user\\desktop\\warehouseson\\warehouse\\warehouse\\warehouseapi\\dtos\\stockmovementdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1F34799-E631-3657-2A29-C2351622D21C}|WarehouseAPI\\WarehouseAPI.csproj|solutionrelative:warehouseapi\\dtos\\stockmovementdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1F34799-E631-3657-2A29-C2351622D21C}|WarehouseAPI\\WarehouseAPI.csproj|c:\\users\\user\\desktop\\warehouseson\\warehouse\\warehouse\\warehouseapi\\dtos\\warehousedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1F34799-E631-3657-2A29-C2351622D21C}|WarehouseAPI\\WarehouseAPI.csproj|solutionrelative:warehouseapi\\dtos\\warehousedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1F34799-E631-3657-2A29-C2351622D21C}|WarehouseAPI\\WarehouseAPI.csproj|c:\\users\\user\\desktop\\warehouseson\\warehouse\\warehouse\\warehouseapi\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1F34799-E631-3657-2A29-C2351622D21C}|WarehouseAPI\\WarehouseAPI.csproj|solutionrelative:warehouseapi\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1F34799-E631-3657-2A29-C2351622D21C}|WarehouseAPI\\WarehouseAPI.csproj|c:\\users\\user\\desktop\\warehouseson\\warehouse\\warehouse\\warehouseapi\\repositories\\stockmovementrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1F34799-E631-3657-2A29-C2351622D21C}|WarehouseAPI\\WarehouseAPI.csproj|solutionrelative:warehouseapi\\repositories\\stockmovementrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1F34799-E631-3657-2A29-C2351622D21C}|WarehouseAPI\\WarehouseAPI.csproj|c:\\users\\user\\desktop\\warehouseson\\warehouse\\warehouse\\warehouseapi\\repositories\\shelfrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1F34799-E631-3657-2A29-C2351622D21C}|WarehouseAPI\\WarehouseAPI.csproj|solutionrelative:warehouseapi\\repositories\\shelfrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1F34799-E631-3657-2A29-C2351622D21C}|WarehouseAPI\\WarehouseAPI.csproj|c:\\users\\user\\desktop\\warehouseson\\warehouse\\warehouse\\warehouseapi\\repositories\\warehouserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1F34799-E631-3657-2A29-C2351622D21C}|WarehouseAPI\\WarehouseAPI.csproj|solutionrelative:warehouseapi\\repositories\\warehouserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1F34799-E631-3657-2A29-C2351622D21C}|WarehouseAPI\\WarehouseAPI.csproj|c:\\users\\user\\desktop\\warehouseson\\warehouse\\warehouse\\warehouseapi\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1F34799-E631-3657-2A29-C2351622D21C}|WarehouseAPI\\WarehouseAPI.csproj|solutionrelative:warehouseapi\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1F34799-E631-3657-2A29-C2351622D21C}|WarehouseAPI\\WarehouseAPI.csproj|c:\\users\\user\\desktop\\warehouseson\\warehouse\\warehouse\\warehouseapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1F34799-E631-3657-2A29-C2351622D21C}|WarehouseAPI\\WarehouseAPI.csproj|solutionrelative:warehouseapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1F34799-E631-3657-2A29-C2351622D21C}|WarehouseAPI\\WarehouseAPI.csproj|c:\\users\\user\\desktop\\warehouseson\\warehouse\\warehouse\\warehouseapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B1F34799-E631-3657-2A29-C2351622D21C}|WarehouseAPI\\WarehouseAPI.csproj|solutionrelative:warehouseapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1F34799-E631-3657-2A29-C2351622D21C}|WarehouseAPI\\WarehouseAPI.csproj|c:\\users\\user\\desktop\\warehouseson\\warehouse\\warehouse\\warehouseapi\\warehouseapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B1F34799-E631-3657-2A29-C2351622D21C}|WarehouseAPI\\WarehouseAPI.csproj|solutionrelative:warehouseapi\\warehouseapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\WarehouseSon\\Warehouse\\Warehouse\\WarehouseAPI\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "WarehouseAPI\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\WarehouseSon\\Warehouse\\Warehouse\\WarehouseAPI\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "WarehouseAPI\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAAAE8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T13:43:10.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\WarehouseSon\\Warehouse\\Warehouse\\WarehouseAPI\\Entities\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "WarehouseAPI\\Entities\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\WarehouseSon\\Warehouse\\Warehouse\\WarehouseAPI\\Entities\\BaseEntity.cs",
+              "RelativeToolTip": "WarehouseAPI\\Entities\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T06:20:41.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\WarehouseSon\\Warehouse\\Warehouse\\WarehouseAPI\\Repositories\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "WarehouseAPI\\Repositories\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\WarehouseSon\\Warehouse\\Warehouse\\WarehouseAPI\\Repositories\\IProductRepository.cs",
+              "RelativeToolTip": "WarehouseAPI\\Repositories\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T06:32:23.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IShelfRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\WarehouseSon\\Warehouse\\Warehouse\\WarehouseAPI\\Repositories\\IShelfRepository.cs",
+              "RelativeDocumentMoniker": "WarehouseAPI\\Repositories\\IShelfRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\WarehouseSon\\Warehouse\\Warehouse\\WarehouseAPI\\Repositories\\IShelfRepository.cs",
+              "RelativeToolTip": "WarehouseAPI\\Repositories\\IShelfRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T06:32:49.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IStockMovementRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\WarehouseSon\\Warehouse\\Warehouse\\WarehouseAPI\\Repositories\\IStockMovementRepository.cs",
+              "RelativeDocumentMoniker": "WarehouseAPI\\Repositories\\IStockMovementRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\WarehouseSon\\Warehouse\\Warehouse\\WarehouseAPI\\Repositories\\IStockMovementRepository.cs",
+              "RelativeToolTip": "WarehouseAPI\\Repositories\\IStockMovementRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T06:33:04.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IWarehouseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\WarehouseSon\\Warehouse\\Warehouse\\WarehouseAPI\\Repositories\\IWarehouseRepository.cs",
+              "RelativeDocumentMoniker": "WarehouseAPI\\Repositories\\IWarehouseRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\WarehouseSon\\Warehouse\\Warehouse\\WarehouseAPI\\Repositories\\IWarehouseRepository.cs",
+              "RelativeToolTip": "WarehouseAPI\\Repositories\\IWarehouseRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T06:32:38.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductManager.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\WarehouseSon\\Warehouse\\Warehouse\\WarehouseAPI\\Managers\\ProductManager.cs",
+              "RelativeDocumentMoniker": "WarehouseAPI\\Managers\\ProductManager.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\WarehouseSon\\Warehouse\\Warehouse\\WarehouseAPI\\Managers\\ProductManager.cs",
+              "RelativeToolTip": "WarehouseAPI\\Managers\\ProductManager.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAwwAsAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T06:35:54.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ShelfDto.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\WarehouseSon\\Warehouse\\Warehouse\\WarehouseAPI\\DTOs\\ShelfDto.cs",
+              "RelativeDocumentMoniker": "WarehouseAPI\\DTOs\\ShelfDto.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\WarehouseSon\\Warehouse\\Warehouse\\WarehouseAPI\\DTOs\\ShelfDto.cs",
+              "RelativeToolTip": "WarehouseAPI\\DTOs\\ShelfDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T06:35:24.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20260311062829_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\WarehouseSon\\Warehouse\\Warehouse\\WarehouseAPI\\Migrations\\20260311062829_InitialCreate.cs",
+              "RelativeDocumentMoniker": "WarehouseAPI\\Migrations\\20260311062829_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\WarehouseSon\\Warehouse\\Warehouse\\WarehouseAPI\\Migrations\\20260311062829_InitialCreate.cs",
+              "RelativeToolTip": "WarehouseAPI\\Migrations\\20260311062829_InitialCreate.cs",
+              "ViewState": "AgIAAHcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T06:28:30.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Warehouse.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\WarehouseSon\\Warehouse\\Warehouse\\WarehouseAPI\\Entities\\Warehouse.cs",
+              "RelativeDocumentMoniker": "WarehouseAPI\\Entities\\Warehouse.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\WarehouseSon\\Warehouse\\Warehouse\\WarehouseAPI\\Entities\\Warehouse.cs",
+              "RelativeToolTip": "WarehouseAPI\\Entities\\Warehouse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T06:24:19.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "StockMovement.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\WarehouseSon\\Warehouse\\Warehouse\\WarehouseAPI\\Entities\\StockMovement.cs",
+              "RelativeDocumentMoniker": "WarehouseAPI\\Entities\\StockMovement.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\WarehouseSon\\Warehouse\\Warehouse\\WarehouseAPI\\Entities\\StockMovement.cs",
+              "RelativeToolTip": "WarehouseAPI\\Entities\\StockMovement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T06:24:53.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Shelf.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\WarehouseSon\\Warehouse\\Warehouse\\WarehouseAPI\\Entities\\Shelf.cs",
+              "RelativeDocumentMoniker": "WarehouseAPI\\Entities\\Shelf.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\WarehouseSon\\Warehouse\\Warehouse\\WarehouseAPI\\Entities\\Shelf.cs",
+              "RelativeToolTip": "WarehouseAPI\\Entities\\Shelf.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T06:24:35.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\WarehouseSon\\Warehouse\\Warehouse\\WarehouseAPI\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "WarehouseAPI\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\WarehouseSon\\Warehouse\\Warehouse\\WarehouseAPI\\Entities\\Product.cs",
+              "RelativeToolTip": "WarehouseAPI\\Entities\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T06:22:50.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\WarehouseSon\\Warehouse\\Warehouse\\WarehouseAPI\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "WarehouseAPI\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\WarehouseSon\\Warehouse\\Warehouse\\WarehouseAPI\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "WarehouseAPI\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T06:37:20.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\WarehouseSon\\Warehouse\\Warehouse\\WarehouseAPI\\Program.cs",
+              "RelativeDocumentMoniker": "WarehouseAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\WarehouseSon\\Warehouse\\Warehouse\\WarehouseAPI\\Program.cs",
+              "RelativeToolTip": "WarehouseAPI\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAwwCYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T06:26:35.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ShelfManager.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\WarehouseSon\\Warehouse\\Warehouse\\WarehouseAPI\\Managers\\ShelfManager.cs",
+              "RelativeDocumentMoniker": "WarehouseAPI\\Managers\\ShelfManager.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\WarehouseSon\\Warehouse\\Warehouse\\WarehouseAPI\\Managers\\ShelfManager.cs",
+              "RelativeToolTip": "WarehouseAPI\\Managers\\ShelfManager.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAwwEsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T06:36:20.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "StockMovementManager.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\WarehouseSon\\Warehouse\\Warehouse\\WarehouseAPI\\Managers\\StockMovementManager.cs",
+              "RelativeDocumentMoniker": "WarehouseAPI\\Managers\\StockMovementManager.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\WarehouseSon\\Warehouse\\Warehouse\\WarehouseAPI\\Managers\\StockMovementManager.cs",
+              "RelativeToolTip": "WarehouseAPI\\Managers\\StockMovementManager.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAwwDMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T06:36:35.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "WarehouseController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\WarehouseSon\\Warehouse\\Warehouse\\WarehouseAPI\\Controllers\\WarehouseController.cs",
+              "RelativeDocumentMoniker": "WarehouseAPI\\Controllers\\WarehouseController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\WarehouseSon\\Warehouse\\Warehouse\\WarehouseAPI\\Controllers\\WarehouseController.cs",
+              "RelativeToolTip": "WarehouseAPI\\Controllers\\WarehouseController.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAwwEMAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T06:37:35.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ShelfController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\WarehouseSon\\Warehouse\\Warehouse\\WarehouseAPI\\Controllers\\ShelfController.cs",
+              "RelativeDocumentMoniker": "WarehouseAPI\\Controllers\\ShelfController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\WarehouseSon\\Warehouse\\Warehouse\\WarehouseAPI\\Controllers\\ShelfController.cs",
+              "RelativeToolTip": "WarehouseAPI\\Controllers\\ShelfController.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAwwEwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T06:37:47.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "StockMovementController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\WarehouseSon\\Warehouse\\Warehouse\\WarehouseAPI\\Controllers\\StockMovementController.cs",
+              "RelativeDocumentMoniker": "WarehouseAPI\\Controllers\\StockMovementController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\WarehouseSon\\Warehouse\\Warehouse\\WarehouseAPI\\Controllers\\StockMovementController.cs",
+              "RelativeToolTip": "WarehouseAPI\\Controllers\\StockMovementController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAowBwAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T06:38:04.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "StockMovementDto.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\WarehouseSon\\Warehouse\\Warehouse\\WarehouseAPI\\DTOs\\StockMovementDto.cs",
+              "RelativeDocumentMoniker": "WarehouseAPI\\DTOs\\StockMovementDto.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\WarehouseSon\\Warehouse\\Warehouse\\WarehouseAPI\\DTOs\\StockMovementDto.cs",
+              "RelativeToolTip": "WarehouseAPI\\DTOs\\StockMovementDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T06:35:35.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "WarehouseDto.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\WarehouseSon\\Warehouse\\Warehouse\\WarehouseAPI\\DTOs\\WarehouseDto.cs",
+              "RelativeDocumentMoniker": "WarehouseAPI\\DTOs\\WarehouseDto.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\WarehouseSon\\Warehouse\\Warehouse\\WarehouseAPI\\DTOs\\WarehouseDto.cs",
+              "RelativeToolTip": "WarehouseAPI\\DTOs\\WarehouseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T06:35:14.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ProductDto.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\WarehouseSon\\Warehouse\\Warehouse\\WarehouseAPI\\DTOs\\ProductDto.cs",
+              "RelativeDocumentMoniker": "WarehouseAPI\\DTOs\\ProductDto.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\WarehouseSon\\Warehouse\\Warehouse\\WarehouseAPI\\DTOs\\ProductDto.cs",
+              "RelativeToolTip": "WarehouseAPI\\DTOs\\ProductDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T06:35:02.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "StockMovementRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\WarehouseSon\\Warehouse\\Warehouse\\WarehouseAPI\\Repositories\\StockMovementRepository.cs",
+              "RelativeDocumentMoniker": "WarehouseAPI\\Repositories\\StockMovementRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\WarehouseSon\\Warehouse\\Warehouse\\WarehouseAPI\\Repositories\\StockMovementRepository.cs",
+              "RelativeToolTip": "WarehouseAPI\\Repositories\\StockMovementRepository.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAwwDgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T06:34:03.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ShelfRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\WarehouseSon\\Warehouse\\Warehouse\\WarehouseAPI\\Repositories\\ShelfRepository.cs",
+              "RelativeDocumentMoniker": "WarehouseAPI\\Repositories\\ShelfRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\WarehouseSon\\Warehouse\\Warehouse\\WarehouseAPI\\Repositories\\ShelfRepository.cs",
+              "RelativeToolTip": "WarehouseAPI\\Repositories\\ShelfRepository.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAwwDwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T06:33:49.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "WarehouseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\WarehouseSon\\Warehouse\\Warehouse\\WarehouseAPI\\Repositories\\WarehouseRepository.cs",
+              "RelativeDocumentMoniker": "WarehouseAPI\\Repositories\\WarehouseRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\WarehouseSon\\Warehouse\\Warehouse\\WarehouseAPI\\Repositories\\WarehouseRepository.cs",
+              "RelativeToolTip": "WarehouseAPI\\Repositories\\WarehouseRepository.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAwwDcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T06:33:36.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\WarehouseSon\\Warehouse\\Warehouse\\WarehouseAPI\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "WarehouseAPI\\Repositories\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\WarehouseSon\\Warehouse\\Warehouse\\WarehouseAPI\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "WarehouseAPI\\Repositories\\ProductRepository.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAwwDoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T06:33:19.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\WarehouseSon\\Warehouse\\Warehouse\\WarehouseAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "WarehouseAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\User\\Desktop\\WarehouseSon\\Warehouse\\Warehouse\\WarehouseAPI\\appsettings.json",
+              "RelativeToolTip": "WarehouseAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-11T06:25:35.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\WarehouseSon\\Warehouse\\Warehouse\\WarehouseAPI\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "WarehouseAPI\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\WarehouseSon\\Warehouse\\Warehouse\\WarehouseAPI\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "WarehouseAPI\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T06:25:18.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "WarehouseAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\WarehouseSon\\Warehouse\\Warehouse\\WarehouseAPI\\WarehouseAPI.csproj",
+              "RelativeDocumentMoniker": "WarehouseAPI\\WarehouseAPI.csproj",
+              "ToolTip": "C:\\Users\\User\\Desktop\\WarehouseSon\\Warehouse\\Warehouse\\WarehouseAPI\\WarehouseAPI.csproj",
+              "RelativeToolTip": "WarehouseAPI\\WarehouseAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-11T06:17:59.185Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
